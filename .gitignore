@@ -1,0 +1,19 @@
+# Python
+pycache/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Generated files
+results/*
+models/*
