@@ -118,7 +118,7 @@ def main():
     print("\nTraining Linear SVM with HOG features...")
 
     model = LinearSVC(
-        C=1.0,
+        C=0.1,
         max_iter=3000,
         random_state=42,
     )
